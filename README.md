@@ -13,12 +13,9 @@
 
 
 <br />
-<br />
 
  <details>
    <summary>:zap: GitHub Stats</summary>
-  
-## 📊 [Can's github stats]
 
 <p align="center">
   <p>
@@ -31,7 +28,6 @@
 </p>
 </details>
 
--
 
   ![C#](https://img.shields.io/badge/C%23-%20-333333?style=flat&logo=csharp)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
