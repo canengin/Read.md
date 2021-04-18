@@ -1,4 +1,4 @@
-### Hi, I'm Kamil Can Engin ## [![Github](https://img.shields.io/github/followers/canengin?label=Follow&style=social)](https://github.com/canengin)
+### Hi, I'm Kamil Can Engin       [![Github](https://img.shields.io/github/followers/canengin?label=Follow&style=social)](https://github.com/canengin)
 
 ## I'm a Instructional Technologists :man_technologist: :computer:
 
