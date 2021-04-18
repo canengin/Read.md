@@ -2,7 +2,9 @@
 
 ## I'm a Instructional Technologists :man_technologist: :computer:
 
-## I’m currently working on IT department, I graduated from Marmara University in 2017 and Bayburt University in 2020  
+## I’m currently working on IT department
+
+## I graduated from Marmara University in 2017 and Bayburt University in 2020  
 
 ## I’m currently learning  C# and Angular
 
